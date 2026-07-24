@@ -18,7 +18,7 @@ I'm available for **consulting** on full-stack product development, cloud archit
 
 ### What I'm working on
 
-- **BeWorking** — a multi-tenant SaaS for coworking spaces: bookings, virtual office, invoicing, VAT compliance and access control, delivered as six services orchestrated on AWS ECS Fargate.
+- **[BeWorking](https://be-working.com)** — a multi-tenant SaaS for coworking spaces: bookings, virtual office, invoicing, VAT compliance and access control, delivered as six services orchestrated on AWS ECS Fargate.
 - **Globaltechno OÜ** — my software studio, building products and delivering client engagements.
 
 ### Let's talk
