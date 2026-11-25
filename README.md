@@ -2,9 +2,10 @@
   <img src="assets/banner.png" alt="Jose AM Talavera — Software that runs companies, with a human in charge" />
 </p>
 
-<h3 align="center">Founder @ BeWorking &amp; Globaltechno OÜ · Building <a href="https://globaltechno.io">maarja.ai</a>, an AI agent that runs a company's operations</h3>
+<h3 align="center">Founder @ BeWorking &amp; Globaltechno OÜ · Building <a href="https://maarja.ai">maarja.ai</a>, an AI agent that runs a company's operations</h3>
 
 <p align="center">
+  <a href="https://maarja.ai"><img src="https://img.shields.io/badge/maarja.ai-0f2a22?style=for-the-badge&logo=sparkfun&logoColor=4fd66a" alt="maarja.ai" /></a>
   <a href="https://globaltechno.io"><img src="https://img.shields.io/badge/globaltechno.io-0b0d10?style=for-the-badge&logo=googlechrome&logoColor=white" alt="globaltechno.io" /></a>
   <a href="https://be-working.com"><img src="https://img.shields.io/badge/BeWorking-0e0e0c?style=for-the-badge&logo=rocket&logoColor=4fd66a" alt="BeWorking" /></a>
   <a href="https://www.linkedin.com/in/jose-am-talavera-5346391/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -19,7 +20,7 @@ I build software and run the businesses it serves.
 
 I spent the first part of my career on the operating side: **8 years running operations for a 15-hotel group (€17M turnover)**, then founding **WebRentals**, a B2B distribution platform for short rentals, and **manaager.com**, a channel manager for holiday rentals that I sold in 2023.
 
-Today I design, build and operate **[BeWorking](https://be-working.com)**, a multi-tenant SaaS for coworking spaces running in production on AWS, and I'm building **maarja.ai** at **[Globaltechno OÜ](https://globaltechno.io)**. Currently studying Computer Science at IU International University.
+Today I design, build and operate **[BeWorking](https://be-working.com)**, a multi-tenant SaaS for coworking spaces running in production on AWS, and I'm building **[maarja.ai](https://maarja.ai)** at **[Globaltechno OÜ](https://globaltechno.io)**. Currently studying Computer Science at IU International University.
 
 ---
 
@@ -27,7 +28,7 @@ Today I design, build and operate **[BeWorking](https://be-working.com)**, a mul
 
 | | |
 |---|---|
-| ◎ **maarja.ai** · *early access* | An AI agent that runs a company's daily operations in the tools it already uses, with a human in charge of what matters. Every action is logged; payments wait for a human yes. |
+| ◎ **[maarja.ai](https://maarja.ai)** · *early access* | An AI agent that runs a company's daily operations in the tools it already uses, with a human in charge of what matters. Every action is logged; payments wait for a human yes. |
 | ⛨ **gtID** · *in development* | The delegation layer under Maarja: each process has an authority level (D0–D4), starting at suggest-only and climbing only on evidence. |
 | ▣ **BeWorking** · *live* | Coworking and virtual office in Málaga, on a platform I designed and build. Maarja's first company. |
 
@@ -89,4 +90,4 @@ flowchart LR
 
 ### 📫 Let's talk
 
-Reach me on **[LinkedIn](https://www.linkedin.com/in/jose-am-talavera-5346391/)** or through **[globaltechno.io](https://globaltechno.io)**.
+Reach me on **[LinkedIn](https://www.linkedin.com/in/jose-am-talavera-5346391/)** or through **[globaltechno.io](https://globaltechno.io)**. Want Maarja running your company? **[Request access at maarja.ai](https://maarja.ai/#acceso)**.
