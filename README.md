@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Jose AM Talavera — Software that runs companies, with a human in charge" />
+  <img src="assets/banner.png" alt="maarja.ai" />
 </p>
 
 <h3 align="center">Founder @ BeWorking &amp; Globaltechno OÜ · Building <a href="https://maarja.ai">maarja.ai</a>, an AI agent that runs a company's operations</h3>
